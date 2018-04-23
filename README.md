@@ -6,8 +6,8 @@ Update the following lines with the AWS ARN of the S3 Bucket used as an archive 
 
 **s3_security_policy.json**
 
-* Line 9
-* Line 23 and 24
+* Line 58
+* Line 59
 
 **vmimport.json**
 
