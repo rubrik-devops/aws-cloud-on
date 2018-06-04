@@ -11,5 +11,5 @@ Update the following lines with the AWS ARN of the S3 Bucket used as an archive 
 
 **vmimport.json**
 
-* Line 11
-* Line 20
+* Line 12
+* Line 13
