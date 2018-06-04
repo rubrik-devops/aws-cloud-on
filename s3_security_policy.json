@@ -2,7 +2,6 @@
     "Version": "2012-10-17",
     "Statement": [
         {
-            "Sid": "VisualEditor0",
             "Effect": "Allow",
             "Action": [
                 "s3:ListAllMyBuckets",
@@ -38,7 +37,9 @@
                 "ec2:CancelImportTask",
                 "ec2:DescribeVpcs",
                 "ec2:DescribeSubnets",
-                "ec2:DeleteSnapshot"
+                "ec2:DeleteSnapshot",
+                "ec2:modifyInstanceAttribute",
+                "ec2:describeAccountAttributes"
             ],
             "Resource": "*"
         },
