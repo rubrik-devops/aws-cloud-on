@@ -5,11 +5,6 @@
             "Sid": "VisualEditor0",
             "Effect": "Allow",
             "Action": [
-                "kms:Encrypt",
-                "kms:Decrypt",
-                "kms:GenerateDataKeyWithoutPlaintext",
-                "kms:GenerateDataKey",
-                "kms:DescribeKey",
                 "ec2:DescribeInstances",
                 "ec2:CreateKeyPair",
                 "ec2:CreateImage",
